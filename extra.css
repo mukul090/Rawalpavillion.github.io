@@ -1,0 +1,166 @@
+    @media (max-width:770px) {
+        header .right {
+            display: none;
+        }
+        .container {
+            margin-left: 30px;
+        }
+        header .left .logo {
+            margin-left: 0.5rem;
+        }
+        section.hero {
+            height: 70vh;
+        }
+        header .left .phone h1 {
+            font-size: 20px;
+            width: 150px;
+        }
+        section.hero .write {
+            padding-top: 7rem;
+        }
+        section.hero .write h1 {
+            font-size: 50px;
+        }
+        section.hero2 .r img {
+            display: none;
+        }
+        section.hero2 {
+            display: inline;
+        }
+        section.hero2 .l {
+            width: 150px;
+            margin-top: 5rem;
+        }
+        section.food {
+            display: inline;
+            width: 50px;
+        }
+        section.food .left1 {
+            width: 100%;
+        }
+        section.food .left1 h1 {
+            font-size: 50px;
+            padding-top: 40px;
+            margin-top: 3rem;
+        }
+        section.food .left1 p {
+            font-size: 18px;
+            padding-bottom: 20px;
+        }
+        section.food .left1 .bt {
+            font-size: 15px;
+        }
+        section.food .right1 {
+            width: 100%;
+            padding-bottom: 30px;
+        }
+        section.food .right1 h1 {
+            font-size: 50px;
+            padding-top: 40px;
+            margin-top: 1rem;
+        }
+        section.food .right1 p {
+            font-size: 18px;
+            padding-bottom: 10px;
+        }
+        section.food .right1 .bt {
+            font-size: 10px;
+        }
+        section.table {
+            display: inline;
+        }
+        section.table .lefts {
+            margin-left: -8rem;
+            padding-top: 3rem;
+        }
+        section.table .lefts h1 {
+            font-size: 30px;
+        }
+        section.table .lefts p {
+            margin-bottom: 50px;
+        }
+        section.table .rights img {
+            display: none;
+        }
+        section.text {
+            background: whitesmoke;
+        }
+        section.text .text1 {
+            padding-top: 3rem;
+        }
+        section.dinner .part {
+            display: inline-block;
+        }
+        section.dinner .party {
+            margin-top: 10px;
+        }
+        section.dinner {
+            padding-bottom: 100px;
+        }
+        section.menu .topss h1 {
+            font-size: 40px;
+        }
+        section.menu .bottom {
+            display: none;
+        }
+        section.contact {
+            display: inline-block;
+        }
+        section.contact .box img {
+            width: 30%;
+            margin-left: 8rem;
+        }
+        section.contact .boxe {
+            margin-left: 4rem;
+            margin-top: 2rem;
+        }
+        section.contact .boxx .btt {
+            margin-left: 8rem;
+            margin-top: 1rem;
+        }
+        section.contact .boxx h3 {
+            margin-left: 4rem;
+        }
+        section.contact .boxx h3 span {
+            margin-left: -1.2rem;
+        }
+        section.contact .boxx .youtube {
+            margin-top: 2rems;
+            margin-left: 3rems;
+        }
+        section.contact .boxx .facebook {
+            margin-left: 3.5rem;
+        }
+        section.contact .boxx p {
+            margin-top: 2rem;
+            margin-left: 3rem;
+            margin-bottom: 3rem;
+            font-size: 18px;
+        }
+        section.book {
+            height: 60vh;
+            margin-top: 3rem;
+        }
+        section.book .head {
+            padding-top: 5rem;
+        }
+        section.book .head h1 {
+            font-size: 3rem;
+            font-style: initial;
+        }
+        section.dinner .party h1 {
+            margin-left: 3rem;
+            font-size: 2.5rem;
+        }
+        section.dinner .party h1 span {
+            margin-left: 1rem;
+        }
+        section.dinner .party p {
+            margin-right: 2rem;
+        }
+        section.dinner .party .btd {
+            margin-left: 4rem;
+            margin-bottom: 3rem;
+            margin-top: 1rem;
+        }
+    }
